@@ -18,6 +18,9 @@ function App() {
   };
 
   console.log(usuarios);
+
+  document.title = "Cusers"
+  
   return (
     <div style={styles}>
       <Container>
